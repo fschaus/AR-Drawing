@@ -11,4 +11,5 @@ Mini app to test Apple new AR Kit framework (augmented reality). The app provide
 - Learn to use plane detection and anchor points to "fix" drawn shapes in place to offer a convincing Augmented Reality experience
 
 # More details:
-![](https://github.com/fschaus/AR-Drawing/blob/master/IMG_1351.TRIM.MOV)
+[Video showing app in action](https://github.com/fschaus/AR-Drawing/blob/master/IMG_1351.TRIM.MOV)
+
