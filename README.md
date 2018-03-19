@@ -12,4 +12,5 @@ Mini app to test Apple new AR Kit framework (augmented reality). The app provide
 
 # More details:
 [Video showing app in action](https://github.com/fschaus/AR-Drawing/blob/master/IMG_1351.TRIM.MOV)
+Video needs to be downloaded (too large for GitHub). Please note how the drawn text remains anchored in space when the user goes closer and behind the text.
 
